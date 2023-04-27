@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## 🛠 Technology Stack
 
 - Languages: Python, Java, C, MIPS Assembly, R, LaTex
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Django, Django REST Framework, Node.js
+- Web-front-end: HTML, CSS, JavaScript, React
+- Web-back-end: Django, Django REST Framework, Node.js
 - Databases: PostgreSQL, SQLite
 - Tools: Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub, Overleaf
 - Operating Systems: Windows, MacOS, Linux
