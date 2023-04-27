@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 😄 About Me
 
-🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025 from New College.
+🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025.
 
 🎯 I'm in the Computer Science Specialist Program focused on Web & Internet Technologies and Artificial Intelligence, with a minor in Statistics.
 
