@@ -18,11 +18,16 @@ Here are some ideas to get you started:
 
 🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025.
 
-🎯 I'm in the Computer Science Specialist Program focused on Web & Internet Technologies and Artificial Intelligence, with a minor in Statistics.
-
-🏫 I'm from the New College under the University of Toronto.
+🏫 I'm from New College under the University of Toronto.
 
 🌏 I come from Beijing, China.
+
+🎯 Program Enrolled 
+
+- Specialist in Computer Science 
+- Focus in Artificial Intelligence
+- Focus in Web & Internet Technologies
+- Minor in Statistics
 
 🏢 Currently working as a Cloud Database DevOps ASIP at [Huawei Technologies Canada Co., Ltd](https://www.huawei.com/ca/).
 
