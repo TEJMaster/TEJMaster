@@ -14,17 +14,22 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Terry Tu! 👋
 
-🎓 I'm a Computer Science student at the University of Toronto, Class of 2025.
+
+🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025 from New College.
 
 🎯 I'm in the Computer Science Specialist Program focused on Web & Internet Technologies and Artificial Intelligence, with a minor in Statistics.
+
+🏫 I'm from the New College under the University of Toronto.
+
+🌏 I come from Beijing, China.
 
 🏢 Currently working as a Cloud Database DevOps ASIP at [Huawei Technologies Canada Co., Ltd](https://www.huawei.com/ca/).
 
 ## 🛠 Technology Stack
 
 - Languages: Python, Java, C, MIPS Assembly, R, LaTex
-- Web: HTML, CSS, JavaScript, Node.js, React
-- Back-end: Django, Django REST Framework
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Django, Django REST Framework, Node.js
 - Databases: PostgreSQL, SQLite
 - Tools: Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub
 - Operating Systems: Windows, MacOS, Linux
