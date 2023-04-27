@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Terry Tu! 👋
 
+## 😄 About Me
 
 🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025 from New College.
 
@@ -48,16 +49,19 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="center" >
   <a href="mailto:terry20021026@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/terry-tu-621540230/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/terry.tu.7796/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Terry%234528-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
