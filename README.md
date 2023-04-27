@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Django, Django REST Framework, Node.js
 - Databases: PostgreSQL, SQLite
-- Tools: Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub
+- Tools: Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub, Overleaf
 - Operating Systems: Windows, MacOS, Linux
 - Scripting: Shell Script
 
