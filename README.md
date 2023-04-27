@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 🎓 I'm a Computer Science student at the University of Toronto, Class of 2025.
 
+🎯 I'm in the Computer Science Specialist Program focused on Web & Internet Technologies and Artificial Intelligence, with a minor in Statistics.
+
 🏢 Currently working as a Cloud Database DevOps ASIP at [Huawei Technologies Canada Co., Ltd](https://www.huawei.com/ca/).
 
 ## 🛠 Technology Stack
