@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 🎓 I'm a Computer Science student at the [University of Toronto](https://web.cs.toronto.edu/), Class of 2025.
 
-🏫 I'm from New College under the University of Toronto.
-
-🌏 I come from Beijing, China.
+🏫 I'm from the New College under the University of Toronto.
 
 🎯 Program Enrolled 
 
@@ -28,6 +26,8 @@ Here are some ideas to get you started:
 - Focus in Artificial Intelligence
 - Focus in Web & Internet Technologies
 - Minor in Statistics
+
+🌏 I come from Beijing, China.
 
 🏢 Currently working as a Cloud Database DevOps ASIP at [Huawei Technologies Canada Co., Ltd](https://www.huawei.com/ca/).
 
