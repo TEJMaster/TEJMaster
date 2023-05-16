@@ -63,10 +63,6 @@ Here are some ideas to get you started:
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/terry.tu.7796/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Terry%234528-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
