@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Languages: Python, Java, C, MIPS Assembly, R, LaTex
 - Web-front-end: HTML, CSS, JavaScript, React
 - Web-back-end: Django, Django REST Framework, Node.js
-- Databases: PostgreSQL, SQLite
+- Databases: PostgreSQL, MySQL, SQLite
 - Tools: Visual Studio Code, Postman, Selenium, MobaXterm, VMware, Git/GitHub, Overleaf
 - Operating Systems: Windows, MacOS, Linux
 - Scripting: Shell Script
