@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🏫 I'm from the New College under the University of Toronto.
 
-🎯 Program Enrolled 
+🎯 Programs Enrolled 
 
 - Specialist in Computer Science 
 - Focus in Artificial Intelligence
