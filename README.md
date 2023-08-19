@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 🌏 I come from Beijing, China.
 
-🏢 Currently working as a Cloud Database DevOps ASIP at [Huawei Technologies Canada Co., Ltd](https://www.huawei.com/ca/).
 
 ## 🛠 Technology Stack
 
